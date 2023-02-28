@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+
+
+.iconos
+{
+    height: 50px;
+    width: 50px;
+
+}
+#header{
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+  }
+
+.titulo2
+{
+    color: red;
+    font-size:larger;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.titulo3
+{
+    color: black;
+    font-size:larger;
+    font-weight: bold;
+}
+.titulo4
+{
+    color: black;
+    font-size: small;
+    font-weight: bold;
+}
